@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import Hero from "@/components/Hero";
 import ProjectCard from "@/components/ProjectCard";
@@ -16,6 +15,11 @@ const Index = () => {
       title: "Security Monitoring System on AWS",
       description: "A guide on building a comprehensive security monitoring system using AWS CloudTrail, CloudWatch, and SNS for enhanced cloud infrastructure security.",
       link: "https://medium.com/@haidersarfraz0323/build-a-security-monitoring-system-on-aws-cloudtrail-cloudwatch-sns-079e47494556",
+    },
+    {
+      title: "Visualize Windows System Health in Real Time with Grafana and Prometheus",
+      description: "A step-by-step tutorial for setting up a real-time Windows monitoring dashboard using Grafana, Prometheus, and Windows Exporter.",
+      link: "https://medium.com/@haidersarfraz0323/visualize-windows-system-health-in-real-time-with-grafana-and-prometheus-e40700650afa",
     },
     {
       title: "Monster Rolodex",
